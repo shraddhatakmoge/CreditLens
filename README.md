@@ -15,7 +15,7 @@ This project analyzes **255K+ loan records** to:
 - Provide actionable business insights for credit risk management
 
 ---
-<img width="663" height="367" alt="Screenshot 2026-06-15 184140" src="https://github.com/user-attachments/assets/38fd7389-76aa-45bf-90e4-83f7eca81448" />
+
 
 ## Tech Stack
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
@@ -65,7 +65,8 @@ Key Insights:
 - Low credit scores strongly correlate with default
 - High DTI increases default probability
 
-![Executive Summary](dashboard/executive_summary.png)
+<img width="663" height="367" alt="Screenshot 2026-06-15 184140" src="https://github.com/user-attachments/assets/baaf1153-0b89-403a-bbfb-2678bf3a89d8" />
+
 
 ---
 
@@ -75,7 +76,8 @@ Insights:
 - Default rises significantly when **DTI > 40%**
 - Interest rates above **20%** correspond to high-risk loans
 
-![Loan Risk Analysis](dashboard/loan_risk_analysis.png)
+<img width="756" height="434" alt="Screenshot 2026-06-15 183945" src="https://github.com/user-attachments/assets/040b6ece-a398-4434-b2c3-6caa71466415" />
+
 
 ---
 
